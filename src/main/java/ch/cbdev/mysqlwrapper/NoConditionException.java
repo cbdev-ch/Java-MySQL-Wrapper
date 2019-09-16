@@ -1,3 +1,5 @@
+package ch.cbdev.mysqlwrapper;
+
 public class NoConditionException extends RuntimeException{
     public NoConditionException() {
         super("There was no condition in the database request");

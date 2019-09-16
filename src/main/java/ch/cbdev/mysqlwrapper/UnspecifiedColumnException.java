@@ -1,3 +1,5 @@
+package ch.cbdev.mysqlwrapper;
+
 public class UnspecifiedColumnException extends RuntimeException {
     public UnspecifiedColumnException() {
         super("Columns where not specified correctly");

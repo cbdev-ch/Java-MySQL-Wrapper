@@ -1,3 +1,5 @@
+package ch.cbdev.mysqlwrapper;
+
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.text.SimpleDateFormat;
